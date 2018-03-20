@@ -63,7 +63,7 @@
 
     <!-- Advanced night mode brightness -->
     <string name="night_brightness_category">Яркость</string>
-    <string name="night_brightness_value_title">Более низкая яркость при ночном освещении</string>
+    <string name="night_brightness_value_title">Более низкая яркость слабом освещении</string>
     <string name="night_bright_disabled">Отключено</string>
     <string name="night_bright_minimum">Минимальная яркость</string>
     <string name="night_bright_low">Низкая яркость</string>
